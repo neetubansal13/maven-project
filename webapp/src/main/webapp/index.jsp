@@ -1,2 +1,1 @@
-Hello Batch2 for Devops 
-Greetings !!
+This ia complete new file developed from scratch
