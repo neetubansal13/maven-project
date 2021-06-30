@@ -1,1 +1,3 @@
-This is the demo for Poll SCM
+Happy CI CD learning.
+
+You are great Jenkins. Pat on your back.
