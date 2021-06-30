@@ -1,1 +1,1 @@
-This is total new content
+This is the demo for Poll SCM
